@@ -1,0 +1,11 @@
+.dashboard {
+    margin-left: 220px; /* Adjust based on sidebar width */
+    padding: 80px 20px 20px; /* Extra top padding for navbar */
+  }
+  
+  .dashboard h2 {
+    font-size: 1.8em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  

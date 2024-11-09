@@ -1,0 +1,19 @@
+.navbar {
+    height: 60px;
+    width: 100%;
+    background-color: #444;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    position: fixed;
+    top: 0;
+    left: 200px; /* Adjusts based on sidebar width */
+  }
+  
+  .navbar h1 {
+    font-size: 1.4em;
+    color: #ffcc00;
+  }
+  
